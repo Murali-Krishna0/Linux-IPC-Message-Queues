@@ -1,5 +1,5 @@
-# NAME: PRADEEP V
-# REG NO: 212223240119
+# NAME:MURALI KRISHNA .S
+# REG NO: 212223230129
 # Linux-IPC-Message-Queues
 Linux IPC-Message Queues
 
